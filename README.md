@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Actualmente trabajando como Full Stack Developer en Sudamericana de Software.<br>⏳ Cuento con 2 años de experiencia profesional en el sector.<br>🔍 En mi tiempo libre me apasiona investigar lo último en tendencias de software.<br>🤝 Disfruto colaborar en equipo para alcanzar el éxito en cada proyecto.
+🚀 Actualmente trabajando como Full Stack Developer en Sudamericana de Software.<br>⏳ Cuento con 3 años de experiencia profesional en el sector.<br>🔍 En mi tiempo libre me apasiona investigar lo último en tendencias de software.<br>🤝 Disfruto colaborar en equipo para alcanzar el éxito en cada proyecto.
 
 
 # 💻 Tech Stack:
